@@ -3,17 +3,17 @@ Developed a predictive machine-learning model to identify customers at high risk
 
 Using:
 
-Python (Pandas, NumPy)
+- Python (Pandas, NumPy)
 
-Scikit-Learn (Logistic Regression, Random Forest, SVM, XGBoost)
+- Scikit-Learn (Logistic Regression, Random Forest, SVM, XGBoost)
 
-Matplotlib, Seaborn
+- Matplotlib, Seaborn
 
-SMOTE (imbalanced-learn)
+- SMOTE (imbalanced-learn)
 
-Data Cleaning & Feature Engineering
+- Data Cleaning & Feature Engineering
 
-Exploratory Data Analysis
+- Exploratory Data Analysis
 
-Classification Metrics (ROC-AUC, Recall, Precision, Confusion Matrix)
+- Classification Metrics (ROC-AUC, Recall, Precision, Confusion Matrix)
 
